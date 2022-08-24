@@ -8,5 +8,8 @@
 
 @interface SBAlertDisplay (PhoneNumberResolution)
 + (id)imageForPerson:(void *)arg1 display:(id)arg2 isFullscreen:(char *)arg3;
-@end
+@end i phone 4s #hack details nawversions:
+  fpt: '*'
+  ghes: '>3.1'
+  ghae: '*'
 
